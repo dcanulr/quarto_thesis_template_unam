@@ -18,6 +18,8 @@ format:
   html:
     theme: cosmo
   pdf:
-    template: ./tesis.tex
-    documentclass: ./Latex/Classes/PhDthesisPSnPDF
+    documentclass: ./tex/tesisIER
+    link-citations: true
+    colorlinks: false
+
 lang: es
