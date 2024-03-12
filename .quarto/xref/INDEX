@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "2bc06c42"
+  },
+  "chapters/prefacio.qmd": {
+    "prefacio.html": "6ee1ae9f"
+  },
+  "chapters/windrose.qmd": {
+    "windrose.html": "dd62f278"
+  },
+  "chapters/referencias.qmd": {
+    "referencias.html": "e050fdac"
+  },
+  "./chapters/prefacio.qmd": {
+    "prefacio.html": "61ad06e1"
+  },
+  "./chapters/windrose.qmd": {
+    "windrose.html": "295984d5"
+  },
+  "./chapters/referencias.qmd": {
+    "referencias.html": "24b64b9c"
+  }
+}

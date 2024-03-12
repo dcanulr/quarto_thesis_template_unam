@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Analisis del clima en Temixco"
+  author: "Guillermo Barrios del Valle"
+  date: "2/20/2024"
+  director: "Instituto de Energias Renovables"
+  chapters:
+    - index.qmd
+    - ./chapters/prefacio.qmd
+    - ./chapters/windrose.qmd
+    - ./chapters/referencias.qmd
+
+bibliography: references/references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    template: ./tesis.tex
+    documentclass: ./Latex/Classes/PhDthesisPSnPDF
+lang: es
