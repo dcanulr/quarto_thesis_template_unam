@@ -1,1 +1,38 @@
 ## windrose
+
+
+Quarto o Quarto! es un juego de mesa, dentro de la categoría de los juegos abstractos de estrategia por turnos, creado por el matemático suizo Blaise Muller, premiado en 1985 en el «Concurso internacional» de creadores de juegos de mesa con el nombre de 4x41​ y editado desde 1991 por Gigamic.
+
+Se trata de un juego de estrategia por turnos, para dos personas. Es conceptualmente muy sencillo, pero tiene una enorme cantidad de posibilidades.
+
+Presentación
+El objetivo del juego es lograr alinear 4 piezas, pero uno no juega las piezas que elige, sino el adversario es quien las escoge por uno.
+
+Las dieciséis piezas del juego, todas diferentes, tienen cada una 4 características distintas: alta o baja, redonda o cuadrada, clara u obscura, plana o tallada. Cada jugador, a su vez, escoge una pieza y la da a su adversario, que debe colocarla en una casilla vacía. El ganador es aquel que, con una pieza recibida, crea una alineación de 4 piezas con al menos una característica común y anuncia: «quarto!».
+
+Composición
+El juego se compone de:
+
+Un tablero de 16 casillas (4*4)
+16 peones diferenciables por 4 características:
+El color - claro / oscuro
+La altura - pequeño / grande
+La punta - plena / agujereada
+La forma - paralelepípeda / cilíndrica
+Todas las combinaciones (ejemplo: grande, clara, agujereada y cilíndrica) están representadas, y una sola vez cada una.
+Un estuche para guardar las piezas
+Turno de juego
+Cada turno consiste en dar al adversario un peón para que lo coloque donde quiera sobre el tablero.
+
+El objetivo del juego
+La regla básica es conformar una línea de cuatro peones con una característica común y anunciarlo. Sin embargo, si se juega sistemáticamente de manera defensiva, las partidas terminan por lo general en posición de empate, por lo que las reglas prevén otras configuraciones ganadoras, siguiendo cuatro niveles de juego.
+
+La regla básica corresponde al nivel uno, la victoria se obtiene realizando un alineamiento.
+El nivel dos permite ganar con un alineamiento o un pequeño cuadrado.
+El nivel tres, además de las posiciones ganadoras del nivel 2, también se obtiene la victoria con un cuadrado más grande.
+El cuarto nivel, agrega a las condiciones de los niveles anteriores, los cuadrados «móviles» (de mayor dificultad).
+Al nivel cuatro de juego, se eliminan prácticamente todas las posiciones de igualdad. Además, la existencia de diferentes niveles permite introducir una variante adicional: los dos jugadores no juegan al mismo nivel y por lo tanto no tienen los mismos esquemas ganadores.
+
+Forma de juego alternativa
+Una variante del juego es que al formar una línea de cuatro peones con una característica común el jugador pierda, por lo tanto se debe evitar y gana el jugador que obliga a su oponente a formar una línea de cuatro peones con una característica común como única jugada posible. Este modo de juego es más complicado porque se debe pensar en el futuro, teniendo en cuenta las piezas que restan sin usar.
+

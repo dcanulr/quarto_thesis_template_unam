@@ -19,6 +19,8 @@ format:
     theme: cosmo
   pdf:
     documentclass: ./tex/tesisIER
+    classoption: [letterpaper,twocolumn]
+    keep-tex: true
     link-citations: true
     colorlinks: false
 
